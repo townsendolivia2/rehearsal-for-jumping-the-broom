@@ -14,8 +14,8 @@
   "project": {
     "github_org": "townsendolivia2",
     "is_private": false,
-    "title": "Rehearsal for Jumping the Broom",
-    "description": "Rehearsal with David Roussève for Jumping the Broom, with footage of recording text used in the piece, and Gesel Mason at the airport. (00078)",
+    "title": "No Boundaries",
+    "description": "An active and evolving archival database that uses dance as a vehicle to uplift the cultural contributions of African Americans artists amidst a history of silencing and appropriation.\n\nThis online resource invites users to navigate materials through a multiplicity of paths and modes of engagement. The site includes interactive features that allow you to compare, annotate, and create playlists with objects in the archive—translating live dance performance for preservation and accessibility while highlighting the interconnected themes at play.\n\nBy expanding the genre of Black dance and interrupting the systematic erasure of names lost to the archive, the No Boundaries Digital Archive reveals the tenacity and diversity of Black performance.",
     "language": "en",
     "slug": "rehearsal-for-jumping-the-broom",
     "creator": "townsendolivia2",
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-07-27T23:29:42.047Z",
-    "updated_at": "2025-07-27T23:29:42.047Z",
+    "updated_at": "2025-07-27T23:32:01.891Z",
     "generate_pages_site": true
   },
   "annotations": {},

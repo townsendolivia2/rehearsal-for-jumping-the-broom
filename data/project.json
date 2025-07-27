@@ -1,1 +1,92 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"townsendolivia2","avatar_url":"https://avatars.githubusercontent.com/u/221790091?v=4","admin":true}],"project":{"github_org":"townsendolivia2","is_private":false,"title":"No Boundaries","description":"An active and evolving archival database that uses dance as a vehicle to uplift the cultural contributions of African Americans artists amidst a history of silencing and appropriation.\n\nThis online resource invites users to navigate materials through a multiplicity of paths and modes of engagement. The site includes interactive features that allow you to compare, annotate, and create playlists with objects in the archive—translating live dance performance for preservation and accessibility while highlighting the interconnected themes at play.\n\nBy expanding the genre of Black dance and interrupting the systematic erasure of names lost to the archive, the No Boundaries Digital Archive reveals the tenacity and diversity of Black performance.","language":"en","slug":"rehearsal-for-jumping-the-broom","creator":"townsendolivia2","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"category":"David RoussÃ¨ve","color":"#ADFFD9"}],"tags":[{"category":"_uncategorized_","tag":"Rennie Harris"},{"category":"_uncategorized_","tag":"Gesel Mason"},{"category":"_uncategorized_","tag":"David RoussÃ¨ve"},{"category":"David RoussÃ¨ve","tag":""},{"category":"_uncategorized_","tag":"Speaker 3"},{"category":"_uncategorized_","tag":"Speaker 4"},{"category":"_uncategorized_","tag":"Speaker 5"}]},"created_at":"2025-07-27T23:29:42.047Z","updated_at":"2025-07-27T23:46:51.697Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"6396de95-e690-4957-bb9a-1a517ed6d35d":{"content":[],"created_at":"2025-07-27T23:29:42.088Z","created_by":"townsendolivia2","title":"Rehearsal for Jumping the Broom","updated_at":"2025-07-27T23:29:42.088Z","updated_by":"townsendolivia2","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["6396de95-e690-4957-bb9a-1a517ed6d35d"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "townsendolivia2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221790091?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "townsendolivia2",
+    "is_private": false,
+    "title": "No Boundaries",
+    "description": "An active and evolving archival database that uses dance as a vehicle to uplift the cultural contributions of African Americans artists amidst a history of silencing and appropriation.\n\nThis online resource invites users to navigate materials through a multiplicity of paths and modes of engagement. The site includes interactive features that allow you to compare, annotate, and create playlists with objects in the archive—translating live dance performance for preservation and accessibility while highlighting the interconnected themes at play.\n\nBy expanding the genre of Black dance and interrupting the systematic erasure of names lost to the archive, the No Boundaries Digital Archive reveals the tenacity and diversity of Black performance.",
+    "language": "en",
+    "slug": "rehearsal-for-jumping-the-broom",
+    "creator": "townsendolivia2",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "category": "David RoussÃ¨ve",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rennie Harris"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "David RoussÃ¨ve",
+          "tag": ""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 3"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 4"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 5"
+        }
+      ]
+    },
+    "created_at": "2025-07-27T23:29:42.047Z",
+    "updated_at": "2025-07-27T23:46:52.602Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "6396de95-e690-4957-bb9a-1a517ed6d35d": {
+      "content": [],
+      "created_at": "2025-07-27T23:29:42.088Z",
+      "created_by": "townsendolivia2",
+      "title": "Rehearsal for Jumping the Broom",
+      "updated_at": "2025-07-27T23:29:42.088Z",
+      "updated_by": "townsendolivia2",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "6396de95-e690-4957-bb9a-1a517ed6d35d"
+  ]
+}

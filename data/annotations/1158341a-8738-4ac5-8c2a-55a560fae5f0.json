@@ -1,5 +1,1518 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was that her number? I thought it was her email or was that her phone number?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "4093e91e-059f-4153-8ffb-f4241bc67a17"
+    },
+    {
+      "start_time": 7,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it was her phone number. Anyway, this is an interview. Is this young man, Rafique?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "ba5c32df-897e-4f3c-938b-2efde8dd51a4"
+    },
+    {
+      "start_time": 16,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rafique"
+        }
+      ],
+      "uuid": "afe0440d-d084-4b20-a71a-9ff671521429"
+    },
+    {
+      "start_time": 17,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's doing ... That's my sister, Dr. Donna White. She teaches here at CSU."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "f6fd083d-885f-40f0-9b46-c3193168c27b"
+    },
+    {
+      "start_time": 22,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rafique"
+        }
+      ],
+      "uuid": "dbbe5128-e237-40a9-acc5-353ea9811058"
+    },
+    {
+      "start_time": 25,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've had her in class?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "060efac7-04ed-4aba-8b04-9f4a0a3c0de6"
+    },
+    {
+      "start_time": 26,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have seen her around and know her name very well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rafique"
+        }
+      ],
+      "uuid": "b697fdff-4b6e-41ba-a92f-57694b34a296"
+    },
+    {
+      "start_time": 27,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "87e4675a-cf68-4eea-a0c2-36237b9b9f48"
+    },
+    {
+      "start_time": 28,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "6a419f42-5bdb-46fd-ad66-0befdaf1efe6"
+    },
+    {
+      "start_time": 31,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do recognize the face. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1"
+        }
+      ],
+      "uuid": "4bdeea4f-b092-45d8-ba42-539a9393403d"
+    },
+    {
+      "start_time": 33,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's quite famous"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rafique"
+        }
+      ],
+      "uuid": "b2b70b94-75b1-4ad6-9f9b-8a3ce0b34908"
+    },
+    {
+      "start_time": 34,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're famous. She's famous around campus. Rafique just did an interview of me for them. Now, it's merging with Gesel's interview for her project. He's allowed her to be there. They're mixing like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "93dc0e2e-de18-461a-ad03-62418e92e83f"
+    },
+    {
+      "start_time": 58,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. So you were talking about the work that ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "23529011-aa67-4f75-bfb9-b7bb4fb9b6ad"
+    },
+    {
+      "start_time": 61,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is it ready?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "36582fda-6a07-40a5-a448-845772d7f0e4"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rafique"
+        }
+      ],
+      "uuid": "9b3fa144-69f7-475b-b08e-6af473bd5799"
+    },
+    {
+      "start_time": 64,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The work you did at Clark Center. Then, you were saying you were on ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "832a99c5-441b-439d-b06c-d37bd7f6c37c"
+    },
+    {
+      "start_time": 67,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, on the Clark Center. You asked me about New York. I'll try to be a little more brief than I was before. In New York, my first event in New York was a solo at Clark Center, which was on 50th and 8th Avenue in a YWCA. It might have been a YMCA. I can't remember. It was a very famous place. Lots of dance classes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "c575182e-3dbb-4695-890f-15331e9b32e3"
+    },
+    {
+      "start_time": 93,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were a lot of people of color dancing at Clark Center, performing and taking classes, and just congregating and telling stories and being together. It was a fun place. Like a cauldron of creativity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "5eeca269-c93b-4f76-925a-bd031ac1aebf"
+    },
+    {
+      "start_time": 114,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had concerts throughout the year, and they also had a new choreographer's concert. I was on one in 1971. Also, you had to audition for it. Also, some other people on that concert were George Basson with his company and Michael Peters with his company and Otis Sallid and some other people. Debbie Allen was part of George Basson's company at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "6cf55a02-2b4f-4e1b-9347-d484cc9dc0a3"
+    },
+    {
+      "start_time": 144,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, after that, I told Louise Roberts, who was the Director of Clark Center, she's passed away now. I told her I wanted to do a group piece since I'd been choreographing since I was seven [chuckles], I wanted to do a group event. Not a whole concert, I shared it with another person."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "180461e8-00cf-45f5-adbc-6944d28242e4"
+    },
+    {
+      "start_time": 164,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She helped me develop my auditions and all like that. She told me ... I said, \"Why would people come to my auditions?\" She said, \"Because people are hungry to dance.\" She said, \"Put up all your specifics. What it is, if you have any money, where it's going to be,\" and people came out. It was very nice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "d3b0ab56-49e4-4b25-bdad-42a48b8a6999"
+    },
+    {
+      "start_time": 184,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But one thing, the people had to be able to work with the live music. They had to be able to do my style, which I was just developing, and they had to be able to relate to the music, musically, improvisationally, and hearing the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "7ef8114b-fa52-484d-9b3b-506726d7d649"
+    },
+    {
+      "start_time": 203,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I had my first concert. It was a place called Cubiculo and I shared it with another dancer. His name was Raymond Clay because I didn't have enough for a whole. It was really a bit hit. It was wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "b5eb89a5-3f32-4792-8b06-977907101850"
+    },
+    {
+      "start_time": 218,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From there, I thought, well, maybe I should have a company. The people who were there, were there for just the concert, so I did. We had called that concert Sounds in Motion. I developed a company, a volunteer lawyer for the Arts organization helped me organize my 501(c)(3). I got a board together. A lot happened in a couple of months."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "db51ca5f-4237-46d5-b41e-fa7cb47ab01b"
+    },
+    {
+      "start_time": 246,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[chuckles] Then, we were a company. In that era, I was very innocent. I was innocent. I didn't know that some things could be really hard and I just went for things, like, oh, how do you do this? It'd be like, oh. They must have thought something like, oh, isn't she cute? She wants to do that. Well, let me help her along."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "8e31942e-c2fd-49e7-b7eb-a5ffda1f682c"
+    },
+    {
+      "start_time": 273,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs]  don't know. I think it was something like that. Oh, yes. I just knew who to go to. I was free and innocent and all of the work I did at the beginning, it just started because nobody said, \"You can't do that.\" Or, if they did say, \"You can't do that,\" they weren't in my neighborhood. I didn't know those people who'd say, \"You can't do that.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "eb65678c-0bf8-4723-99b8-f12e1972a2ec"
+    },
+    {
+      "start_time": 300,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were some people who had been part of Ailey tradition or had been more seniors, even though they were probably younger than I am now. They were seniors in the whole dance community of black people. They appreciated what I was doing, and they boosted me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "df82cd21-65a8-47f4-9646-d3858c1c84e8"
+    },
+    {
+      "start_time": 320,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway, from there, we got invited to a performance here, on Long Island there, and dah-dah-dah. It just developed. Eventually, I got my own space. First, we had borrowed spaces, all in Harlem. While I was in Harlem, I lived in Harlem, and I wanted the energy from the cultural history of Harlem. I wanted that to seep in our creativity, and it did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "c5a1e7c1-e146-467f-9b9a-b5535ca9ec3f"
+    },
+    {
+      "start_time": 345,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First, we were in a place that a church organization owned. Next, we were at the Studio Museum in Harlem, and next, we had our own studio. Then, we toured around the country, and around the world, and we had live music was part of the company. Dance and music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "957c0816-1d1d-40f4-9dd4-3e303a5c9864"
+    },
+    {
+      "start_time": 370,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, I had a school. The Sounds in Motion School. We were based at 125th and Lenox, with gigantic picture windows, so the people on the street could see us dancing, especially at nighttime. It was like a drive-in movie. The people on the street could sit on their stoop [chuckles] and just look up and watch us dancing. It was fun for me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "7f0fcff5-0e9b-4102-a00b-32c6643383f0"
+    },
+    {
+      "start_time": 396,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We started school, myself and Bernadine Jennings and Mickey Davidson. We were the main teachers. Eventually, we invited some other people who did traditional West African dance, but they were not part of our school. They did their own thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "8be26079-44be-40d6-aea1-9194f290b42f"
+    },
+    {
+      "start_time": 414,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, I started producing people in the studio. I had what's called studio works. They were my dancers. They were dancers in my company. They were musicians I knew. They were poets. They were playwrights. They were people who I was not that connected with. The only rule I had was that they had to be daring, whatever they were doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "e026770a-95d8-4c62-80e5-688ab1a87241"
+    },
+    {
+      "start_time": 434,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had bleachers we would set up. We would get 100 people in there, but really shouldn't have been that many people. Then, I would look out in the hallway when the people were trying to get in there. I'm like, \"Oh my goodness! There's Talley Beatty. Excuse me, people. You have to make room for him.\" It would be like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "efef3ee8-0f11-4df9-b189-e9133ffac7b8"
+    },
+    {
+      "start_time": 454,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talley would come to the studio sometimes just to rehearse or look out the window because he loved seeing the people on 125th Street, and he could look at the stories without even hearing them. Yeah, he was a ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "19081cde-7b92-4daa-9242-3c84b7f3d533"
+    },
+    {
+      "start_time": 471,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talley, George Faison, Rod Rodgers, and Alvin Ailey. Those people were very supportive of my work, of me. They were like big brothers. Maybe Alvin was more like a father, age-wise. They just gave me boost."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "0df365cc-fa4a-4339-81d3-80cc2a4e0125"
+    },
+    {
+      "start_time": 499,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I look back on it, I realize I was the only woman in that group. There was another dancer who died last year, Joan Miller. Joan Miller was based up at Lehman College. She did very adventurous work also. She didn't have an ongoing company that toured all around, so she wasn't ... because I became known like nationally and all like that, but Joan was right in there too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "992f263e-2726-4ea5-863a-c2fcf71bc092"
+    },
+    {
+      "start_time": 534,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most people thought of us all. [Ellio 00:08:58], he was very supportive too. Ellio, Rod, George, Fred Benjamin, myself. We would also have the companies in that era, the '70s and the '80s. I produced people in my studio, my dancers, the musicians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "75e26ac2-9e72-4c1a-8b14-41466106a18d"
+    },
+    {
+      "start_time": 555,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like them collaborating, so a few of the people like [Javale 00:09:19]. She was one of my people from four years. She was my right hand person. Her pieces were first produced at Sounds in Motion studio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "870bc2ac-1e59-484a-988e-bcfc2783ef1c"
+    },
+    {
+      "start_time": 572,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I met her in Florida. No, in Georgia, in 1980 or something. She said, \"I want to come and study with you like that.\" Some people came. They came to gravitate to my studio because they had heard or seen us on tour or something and it was something different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "9225c60f-f624-4c97-883e-89aa6160ec1e"
+    },
+    {
+      "start_time": 594,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess they felt at Sounds in Motion, they could develop themselves and not be locked into a certain style. That we appreciated each other's specialness. Our classes would be really huge. They were fabulous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "a22b6d2d-ec83-4bc5-89c9-1b81e88d1796"
+    },
+    {
+      "start_time": 614,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had this musician named Hank Johnson. Hank was woo! He was out-of-sight. He was a most brilliant dance accompanist. He helped develop my style, just the way he played. Even though the musicians develop the style as well as me interacting with the dancers, that developed the Sounds in Motion style, and technically, Hank helped develop the style by his music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "f4bb93f0-4eee-4800-a37d-58033b0f3c22"
+    },
+    {
+      "start_time": 641,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We did things that we couldn't really do because of the way he played, which was brilliant. He passed away in 2005. He also would stop playing and talk to the dancers. He'd say, \"Excuse me. Don't you hear what she's talking about? She means this. You should get to the bottom and dah-dah-dah.\" He philosophies at the same time, then he'd go back to the piano and play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "6d83e9e7-88db-42bb-89eb-0a0b02ee4b7a"
+    },
+    {
+      "start_time": 670,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At first, it would take people aback, but then they know, oh yeah, that's Hank. Then, that was ... We toured. We had produced the people. Kevin [Wynne 00:11:21] was another person who first started. His dance was at my studio. Marlies Yearby. These are people you may know their names. These people, a whole bunch of people, came to the Sounds of Motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "6ceaa34b-9021-443a-8e77-ead4ffa0e12d"
+    },
+    {
+      "start_time": 694,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of musicians too. I worked with Max Roach, Cecil Taylor, Lester Bowie, Olu Dara, Sharon Freeman, Amina Claudine Meyers, Oliver Lake. Lots of people. Hammitt [Bluitt 00:11:58]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "2aff09c0-07bc-4e00-abff-4a77e14c955a"
+    },
+    {
+      "start_time": 724,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, in 1988, I decided to discontinue having the umbrella of the company, which I loved, but was a lot of overhead. Then, I became an independent, and I've worked in film and, as I mentioned before, in theater. I worked in theater from 1974. I started with Negro Ensemble Company. They did a piece called The Great MacDaddy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "adc06568-cef9-44cd-beee-ce7db0d1722e"
+    },
+    {
+      "start_time": 751,
+      "end_time": 774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Simultaneous to my company, I was working in theater. When I first came to New York, I was very inspired by the people I had read about. The poets, the theaters, all of those. The visual artists, I got to actually see them and then some of them became actual friends, colleagues, or people I got to work with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "b1fabd4e-d7a9-4c13-b835-0597c81748e8"
+    },
+    {
+      "start_time": 774,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a little bit how my career developed starting in New York. Does that answer your question?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "e1fdebf7-90e9-46c0-ac11-83c5bea69d0e"
+    },
+    {
+      "start_time": 780,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[chuckles] Yeah [laughs]. One other question. We've been talking about this idea of black dance. What is that? Is there such a thing? What does that mean? How are you in conversation with that or not in conversation with that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "78616156-2b3d-464b-9bc2-d7248c6e2c71"
+    },
+    {
+      "start_time": 799,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just wondering about some of your thoughts about ... Because, you know, of course, my project, the idea of No Boundaries, which you spoke to earlier, is about how we're not some sort of monolith."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "28359426-e3aa-45ad-b810-9635f2fea7c9"
+    },
+    {
+      "start_time": 810,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "41b03f5c-3d6e-4793-833d-4bd3aa42e6b0"
+    },
+    {
+      "start_time": 811,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, there's the thing that people think of, and then ... Oh, I think I see them. They can be invited in. There's the thing that people think of, or a time period or style of a genre and I was just wondering if you could talk a little bit about that concept, or the idea of black dance or not black dance, or it being a misnomer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "b70bc2f5-9f04-46c6-8c90-f6f96b5c5d49"
+    },
+    {
+      "start_time": 840,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Well, I had to speak on this subject. Does everybody talk on your ... I'm sure you ask everybody that question? I, myself, do not care for that term, black dance, because do we have a term called white dance? We do have a term that could be Korean dance. Korean dance, but maybe to Korean people, maybe it has to be more specific. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "fd86f6e8-e190-462a-b11d-0dba2b8d9963"
+    },
+    {
+      "start_time": 869,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In certain places, the dance if it's a tradition of a people of a culture, you could say, \"Oh, we're doing ...\" Not even the name of an African country. There are dances from West Africa that they are so-and-so type of dance. Okay, that's all right. It might be the name of a people or a place. That is one thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "1f64fe8a-c163-45f9-8544-6950aee183ad"
+    },
+    {
+      "start_time": 896,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those people, and even if it's Korean dance, there may be a specific type of enclave or place that's more specific than Korean, not like African dance or maybe Korean dance. It's like this specific."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "7066d0d8-1e4f-4d5a-953e-f35bed7dc220"
+    },
+    {
+      "start_time": 914,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's specificity comes from a group of people that have probably an old tradition that has developed this dance over time. It's a dance that helps heal the community, celebrations in the community, and it started from the Earth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "4d244100-c42a-458f-8345-25ea7f5878a4"
+    },
+    {
+      "start_time": 936,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If people use the term black dance, it's like, \"Oh, look at all these people. These people from all over America. Maybe they don't quite all look alike, but they're black so. Let's call that black dance.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "171f2d15-b8c4-403a-89ae-930aa95a4754"
+    },
+    {
+      "start_time": 953,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, we, as a people too, use the term black dance, but it's not so specific as cultural dance, you see. A dance of a specific culture that has a specific meaning. We're like contemporary dancers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "a772a71a-783f-4237-96cc-f497fb84cc5c"
+    },
+    {
+      "start_time": 973,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In our training, we learn that in the modern dance tradition, you can have specific technique and then the beauty of it is you can do your own thing. It may be good, it may be bad, it may be interesting, but you can do your own thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "689f14f0-5a87-4c62-a2b4-e013bfa65a59"
+    },
+    {
+      "start_time": 993,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of us in this tradition that people call black dance, we all had that training and that training said, and then you can do your own thing. It didn't say, and now you can go forward and be black dance [laughs]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "b41a9c5c-291c-4d1a-a395-d15ad37d2899"
+    },
+    {
+      "start_time": 1009,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you were like seven years old, creating your dance, maybe they do now, but you're not like, I am a female. I'm a feminist dancer. I am a black dancer. No, you don't grow up with that, but if you came from that cultural place, you may."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "cfec03e4-1ff3-4ab0-9efd-44cb93f3a42f"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went out and saw the Hopi peoples and some other people, Pueblo peoples. Their dance was from that place. They were very proud and they were the only people who knew how to do it. It was their dance. When I have a broad thing like that, okay, that's one thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "38c28663-0d70-46e1-bbf5-d9b9a4e3f9a8"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other side, most people who are people, I would say, African American people, who have grown up in this country, have had some experience of, like my mother says, \"You're black, step back,\" have had some experience of being a person of color that makes you different or pushes you aside or puts you in a box."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "5683093b-f820-4296-8b7b-fc79f20e73b5"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most all of us, who are choreographers have had that experience separate from our dance. A lot of people, that experience, whatever that makes you be, like very bold or very bitter or very like, \"Well, it doesn't bother me.\" Whatever it is, that's inside of you, and that is something that helps you in your creativity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "edb00358-e2fd-4bac-b7ff-17123228df6f"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes you may bring your own cultural background into it. I could say there is an underlying thing. What that thing is, I cannot tell you, but that underlying thing is that when you see another person, and you go, you're in a place and somebody's looking at you like this, and you're with another person, another black person that you don't even know each other, but you feel this thing, it makes you wed in some way, even though you don't know that person."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "c8497cc8-1a92-4dc5-8957-4b6f4146f923"
+    },
+    {
+      "start_time": 1151,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our dance has a commonality in it like that, even though it looks nothing alike. How's that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "08ee6d6a-82bd-45af-bceb-0639c6e08998"
+    },
+    {
+      "start_time": 1159,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs] That's great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "acba163f-eabb-4186-9575-047561e2de3b"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "a19fd0bb-f0c7-428d-8ceb-5b933ba4f101"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great 'cause everybody has a completely different answer to that question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "ddae6589-a26b-4410-8625-f98036e53cd7"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's because we're completely different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "94f7f8ff-5399-4a0a-b029-f21699413c16"
+    },
+    {
+      "start_time": 1174,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep. I think ... The last question I think I have was also just in regards to this piece. I actually was ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "20d70e35-50ec-4893-844b-1416a41c1471"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, because I didn't answer it. I answered it quickly about this specific piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dianne McIntrye"
+        }
+      ],
+      "uuid": "129f1473-da82-4aa1-a167-d7a10ad2665c"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I felt you ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "4946c4e5-6f91-4078-a6b1-20cd63beb99a"
+    }
+  ],
   "set": "Default",
   "event_id": "a73ced31-bc9a-419e-84a3-3075381d797e",
   "source_id": "b91e445d-cac6-4d20-aca8-c9d94728e9fb"

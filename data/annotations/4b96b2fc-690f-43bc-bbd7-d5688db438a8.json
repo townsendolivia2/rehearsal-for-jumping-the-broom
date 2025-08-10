@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 1021,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "adfd"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "c9d00f77-1eb6-445b-92b3-ed9d105a8c8d"
-    }
-  ],
+  "annotations": [],
   "event_id": "a73ced31-bc9a-419e-84a3-3075381d797e",
   "set": "Annotations for \"Rehearsal for Jumping the Broom\"",
   "source_id": "b91e445d-cac6-4d20-aca8-c9d94728e9fb"

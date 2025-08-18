@@ -1,5 +1,406 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wind blowing. Gesel and David are outside walking along the sidewalk in front of a Spanish Colonial-style house. David stops in front of a fern bush and appears to sniff it. Birds chirp. Gesel stops in front of another fern bush ahead of David and pulls a leaf to her nose. David approaches Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd017434-5cb8-4f1e-b1a6-46d9a0775dca"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that a fern?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "654e4044-af0f-4f46-b7b1-36b1e82e9a37"
+    },
+    {
+      "start_time": 8,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David rubs his fingers on the leaves then holds them to his face, appearing to sniff them. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77ded187-35ed-4ab3-9f69-b58126f59833"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "0ffb8316-f652-47c7-bf87-53bbda2f6680"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[both laugh]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "b473a1f7-f283-4463-9a88-fbbfa53eef1a"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both Gesel and David turn into the driveway of the home. Flower bushes line the driveway. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a98d0e6e-6021-4235-b414-5d4c375000df"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pointing to a rosebush] Oh, look at that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "133f48e0-09d5-4fda-af23-6fa5f90b09d2"
+    },
+    {
+      "start_time": 22,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David and Gesel each stops to smell a flower."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "795b0220-c54e-4990-9835-db14f13ece64"
+    },
+    {
+      "start_time": 33,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, look at that. [points to a rose] [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "d1e5fa2e-7c9b-400e-98b8-3b08fc0013ff"
+    },
+    {
+      "start_time": 36,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "549ec2eb-d855-4895-85a9-32a3cf2153c0"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beautiful flowers, man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "efe54bb2-02b4-4abc-b9ca-eec662fdc955"
+    },
+    {
+      "start_time": 0,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel and David turn and walk up the steps to the front of the house. Gesel presses the doorbell. The camera zooms in slightly on Gesel and David. A dog barks from inside the house. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e92d8d9-ae97-4c84-b78a-b9c92dd51fa2"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The front door opens. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6f3c2c5-fdab-47bf-9d71-c1056fcb2328"
+    },
+    {
+      "start_time": 67,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[waves right arm in a single arc] Hey!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "c3959270-ad3c-4e8b-a6fd-dd2ff6e849d4"
+    },
+    {
+      "start_time": 67,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "3rd Speaker"
+        }
+      ],
+      "uuid": "88be99ea-895b-46a3-a747-0807fa9488b9"
+    },
+    {
+      "start_time": 68,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[dog barking] My name is Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "aa6c604c-d0d6-426e-9d41-8ead0de2eb92"
+    },
+    {
+      "start_time": 70,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dog continues barking as the man pulls the dog back inside the house. David looks back at the camera and smiles."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27aee277-c88c-411b-acdb-d68a12a5aa2b"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Josh, you better get up here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "ebe4b796-60ec-4d63-a6f5-0e09d1cf01eb"
+    },
+    {
+      "start_time": 77,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera cuts to a living room."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15d69a28-5094-4e48-ad0b-f370c3f5ac50"
+    },
+    {
+      "start_time": 77,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have a seat, I got a couple chairs here. Um, [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "3rd Speaker"
+        }
+      ],
+      "uuid": "203c62bd-0e3f-4da3-9b2b-ea4cd8457aed"
+    },
+    {
+      "start_time": 88,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera pans across the room to a dog. The dog barks. The camera pans across a white wall then down a hallway. The dog continues barking. At the end of the hallway is a door standing halfway open. The camera operator begins walking down the hallway. Clunky footsteps are heard on a hardwood floor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e05d97f-4fc8-406a-af35-c3b2324892ce"
+    }
+  ],
   "event_id": "a73ced31-bc9a-419e-84a3-3075381d797e",
   "set": "Annotations for \"Rehearsal for Jumping the Broom\"",
   "source_id": "b91e445d-cac6-4d20-aca8-c9d94728e9fb"

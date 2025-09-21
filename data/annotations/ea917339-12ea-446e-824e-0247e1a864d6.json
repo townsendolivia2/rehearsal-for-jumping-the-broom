@@ -1837,6 +1837,1848 @@
         }
       ],
       "uuid": "c657f978-80fe-4a6f-8a62-6b451a17d958"
+    },
+    {
+      "start_time": 0,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video begins in blackout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "df25f25b-0e11-4c21-8ec2-0c6aad143347"
+    },
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Program text appears. Jumping the Broom (2005). Choreography by David Rousseve. Text by David Rousseve. Music by Nat King Cole Trio, \"If Yesterday Could Only Be Tomorrow.\" Recorded voices include David Rousseve and Gesel Mason. Lighting Design by Cheles Rhynes. Performed by Gesel Mason"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Credits"
+        }
+      ],
+      "uuid": "d0d99c91-9e68-47c0-8424-2360955d16da"
+    },
+    {
+      "start_time": 5,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Rousseve's voice is heard over the loud speaker. His voice is raspy and sounds like an older gentleman from the South. He speaks as if recalling an old memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "904d3c23-0d0b-463d-b6ae-c4cdeaf8445b"
+    },
+    {
+      "start_time": 5,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Funny how it's the little things we remember about the times we want to forget. Guess my mind remembers the chirp of the crickets at sunset and the smell of sweet summer grass in hopes my heart might forget seeing my wife like that.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "18f8b5c3-e718-43d5-82db-283ca7f158b1"
+    },
+    {
+      "start_time": 28,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A warm spotlight slowly fades up to reveal Gesel standing upstage right, wearing a tattered white lace wedding gown with a red flower afixed to the center of her chest. Her arms are exposed all the way to the shoulder and her wrists are bound by a chain. Her body slowly turns to the right. Her arms are raised above her head as if hanging from something and her gaze is toward the sky. The raspy voice continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "7e7d256e-a364-49ae-8e1d-5abcd533852b"
+    },
+    {
+      "start_time": 29,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"But I can't never forget that sight. Or that it happened. Just 'cos we was so much in love.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "8fa251b7-a497-4d27-85cd-e847d2024635"
+    },
+    {
+      "start_time": 37,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's body makes a jerking motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "1e660d87-20ee-4156-b08b-4667eba48b6e"
+    },
+    {
+      "start_time": 38,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes a gasping sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "a5aa969b-afda-4422-bbfd-c14b24ebd556"
+    },
+    {
+      "start_time": 40,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"You see, I never knowed nothin' greater than the palm of Jesse's hand stroking my face as I fell asleep in her arms.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "ed4ecddc-3102-4c93-b368-bd722f8abde7"
+    },
+    {
+      "start_time": 41,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly begins turning her body to the right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "f5094dbb-3f2e-4611-b5b8-e5279e86e933"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes a coughing sound and her body jerks in response."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "9e84d933-3cfe-49e9-b556-03d77d73cce1"
+    },
+    {
+      "start_time": 52,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel continues turning to the left, then slowly begins to turn to the right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "47f6b451-5ecd-4546-a784-d584e19242af"
+    },
+    {
+      "start_time": 52,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"That's what got me through those hot days of picking. At night, when Jesse'd blow on the blisters on the back of my neck, and wipe my face with her palms, even the life of a slave somehow started to seem worth living.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "6a900e07-0a4a-4d5f-8c40-b148a7897963"
+    },
+    {
+      "start_time": 61,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes a coughing sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "2f97e53a-83fd-4175-9df6-e7a88dff7f3c"
+    },
+    {
+      "start_time": 71,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's hands drop to her chest and the weight of her arms pulls her upper body down. Her body wavers back and forth slightly as if totally exhausted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "9c6accf0-8a81-4e56-86f9-aba210c227c0"
+    },
+    {
+      "start_time": 71,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Yesterday Could Only Be Tomorrow by Nat King Cole begins to play. The music is soft and romantic. Its long, drawn-out notes make the song slow and relaxing to listen to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "4d4acabb-6d73-4667-b573-41cacc85368a"
+    },
+    {
+      "start_time": 88,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The warm spotlight begins to become brighter around Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "03861d86-3cdc-49dd-913b-28b8621f861f"
+    },
+    {
+      "start_time": 90,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly struggles to lift her head and look toward the audience. Her body shakes with fatigue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "2e018955-55a1-4941-ae93-836c7bbcc2c1"
+    },
+    {
+      "start_time": 95,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly turns her gaze stage left. She reaches her arms in the direction of her gaze. Her arms seem heavy as her fingers slowly wriggle, as if reaching toward something beyond her gaze."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "9aca5beb-d13e-4a1f-94cf-a786728c9676"
+    },
+    {
+      "start_time": 119,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly curls her fingers in and lowers her arms. Her face shifts from a look of determination to sadness, as if what she is reaching for cannot be reached."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "d1c11d87-9142-463d-a16d-6695098255aa"
+    },
+    {
+      "start_time": 120,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly lowers her arms and drops her head. Her upper body crumples forward and slowly relaxes toward the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "b1e9d888-2fe8-4d52-a9a8-aa4ae2b1535a"
+    },
+    {
+      "start_time": 132,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly flings her hands behind her to her right. She gasps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "2eb03b51-2d72-4d61-84f9-b7acd4e7d1b9"
+    },
+    {
+      "start_time": 132,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's arms slowly lower as her upper body dips closer to the ground, arching toward the sky. Her gaze slowly turns upwards. She gradually comes to a standing position with her gaze still raised toward the sky. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "da91e39d-3038-4cb1-bcfd-a95f4a07132f"
+    },
+    {
+      "start_time": 146,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's body arcs to the left and her upper body slowly crumples toward the ground as she lowers her gaze toward the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "4547dca2-b02b-48e7-9b0b-90a6a1c58d7b"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She suddenly flings her arms back to her left side and gasps. Her body rebounds from the force and her upper body tilts forward slightly. She holds her gaze toward the downstage left corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "3c180202-d405-4a14-9857-65836fff1922"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's arms fling to the left again and she gasps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "26f80005-d896-4ef7-939e-90e4db346bcb"
+    },
+    {
+      "start_time": 162,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel flings her arms up above her head and her upper body drops to the left. She makes deep, gutteral sounds from her throat as if trying to speak but produces no words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "21b580f0-784d-41b2-94d2-d2b17f8bdd9a"
+    },
+    {
+      "start_time": 176,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's arms drop to her left and her torso flops over as if from total exhaustion. She slowly drops her torso to the front and hangs limply."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "55e09741-1a5e-4fb3-844f-5de2ee32ecbc"
+    },
+    {
+      "start_time": 177,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"I never understood how they could teach us about Jesus and then refuse to let us love. But on that man's plantation, slaves was forbidden to marry.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "9d71ab0c-1946-4aca-a835-d065ab182f2d"
+    },
+    {
+      "start_time": 190,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel gasps and quickly pulls her hands into her chest. She gasps again and returns to a standing position with her hands still clutched to her chest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "45777202-b39f-4084-baf5-64859fed9030"
+    },
+    {
+      "start_time": 191,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"But I loved Jesse with all my heart.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "5a151781-3b79-483d-ab36-54c38f32ef12"
+    },
+    {
+      "start_time": 193,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel gasps and thrusts her head backwards and holds her face toward the ceiling. She pants slowly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "bb6a8070-e566-4fe6-b4ae-e49c6c68b59a"
+    },
+    {
+      "start_time": 193,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"And I wanted to hold her forever. So whilst his family was away at church, all the slaves snuck out behind the last field of corn. Oh, we put a broom on the ground and while everybody was singing, and clapping, and dancing, me and Jesseâwe held each other tight and jumped over that broom.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "b7409959-acc3-4abe-b2e4-db65a8723b95"
+    },
+    {
+      "start_time": 205,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel drops her torso to the left, still panting, and then drops her head toward the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "2c094e58-128e-465b-8f3f-00464b9aff24"
+    },
+    {
+      "start_time": 221,
+      "end_time": 14520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel begins scrunching the hem of her dress up her legs, revealing chains shackling her ankles. She slowly returns to a standing position and tilts her head toward the sky. She is still panting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "b593ebab-5852-4cc7-9a34-8eba0307d09a"
+    },
+    {
+      "start_time": 224,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"Then Jesse, she looked into my eyes and said 'I love you and now forever I am your wife.' And you know what? That was the only time in my life I knowed how it felt to be a full human being.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "5b5e0092-c09b-43b3-8899-119e5988dd2d"
+    },
+    {
+      "start_time": 242,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly turns her gaze forward and her face changes to a look of determination. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "9c02cc28-5835-4e77-947c-888a0642b548"
+    },
+    {
+      "start_time": 252,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her hands begin shaking. The shaking continues up her arm and into her shoulders until her whole body is shaking. She makes gutteral sounds from her throat that gradually get louder. She attempts to break the ropes that bind her wrists against her thighs by hitting her thighs repeatedly. She yells in frustration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "d7253411-7475-4eaf-9f9a-f94138e9abc8"
+    },
+    {
+      "start_time": 304,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly returns to standing and holds her hands splayed below her chin. Her mouth is gaping open and she pants rapidly. Her body pulsates in response to her panting. Her face is tilted toward the ceiling and her eyes are rolled back in her head."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "d2ddc1a4-3d65-4290-a7e7-f4c737d249a4"
+    },
+    {
+      "start_time": 306,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"Didn't take long for him to find out we had married. I come back from the fields on the prettiest summer evening just dreaming about the time I'd soon spend with Jesse. And there she was. Strung up by her hands with blood rolling down her back like tears falling down the wrong side of her body. They waited for me to see her. Then they cut Jesse down and loaded her into the back of his raggediest wagon and took her off to be sold.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "bfc9bad5-7668-43ba-920e-b84f6ecc032c"
+    },
+    {
+      "start_time": 324,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's breathing slows and her panting deepens. Her body gradually relaxes as she bends her upper body forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "391d7e3a-271d-40e6-8f5b-9166904a68a4"
+    },
+    {
+      "start_time": 349,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice continues, \"I remember Jesse's lips was trembling as she looked into my eyes and raised up her arms. Through chains she turned over her hands and showed me the palms that would never again stroke my cheeks, as if to say that for the rest of time, they would surely wish that they could.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "39a866f6-fd80-488f-aca4-1c0cef5ca0fa"
+    },
+    {
+      "start_time": 353,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel extends her arms out in front of her and appears to be gazing at something beyond her reach. Her hands are splayed and her fingers are spread wide. She is breathing deeply and her body writhes with her breathing. She has a look of longing on her face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "704849f1-35a1-4108-8198-b03f93d73d55"
+    },
+    {
+      "start_time": 371,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's face turns to a look of anger and determination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "0c8cf9e3-93e4-4264-9956-e5b2c359d04b"
+    },
+    {
+      "start_time": 375,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice continues, \"I watched my whole life pull off and disappear in the back of that wagon. And all I could think was, 'But I just wanted to love her.'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "3e82cdfc-536d-4c2d-867c-427ccf1568e9"
+    },
+    {
+      "start_time": 380,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel appears to become aware of something in the distance stage left. She slowly turns her gaze to the left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "6f2e2524-84a4-4c50-b08c-7ece40cb9de3"
+    },
+    {
+      "start_time": 390,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice continues, \"I fell to my knees. And though I have lived for forty more years, I cannot remember if I ever got up again.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        }
+      ],
+      "uuid": "685f1134-03af-48d8-b718-a91329b7036b"
+    },
+    {
+      "start_time": 391,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel reaches her arms toward stage left as her body slowly sinks to the ground. She comes to a sitting position and continues reaching toward stage left. A spotlight slowly lifts on stage left to reveal another dancer lying on the floor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "709132da-019d-4f8f-8a65-11c649c53849"
+    },
+    {
+      "start_time": 405,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A recording of Gesel's voice is heard over the loudspeaker. She says, \"Funny how it's the little things we remember about the moments we'd rather forget. I remember a magnificent sun and white steps that glistened like magical porcelain. Maybe I remember these things in order to forget the feeling of my heart being crushed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "c7a6a7f2-50ab-4835-bb3c-29d77ddb691c"
+    },
+    {
+      "start_time": 417,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly twitches and pulls her arms back slightly then reaches her arms again toward stage left. She furrows her brow then rapidly pulls her arms back toward her and flings them over her right shoulder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "0c747d71-cf7c-401c-9562-c534a09c11e0"
+    },
+    {
+      "start_time": 424,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The stage lights brighten to reveal another dancer lying limp downstage left of Gesel. The other dancer is wearing a brown men's suit with a black shirt underneath. Gesel gazes toward the ceiling and appears to struggle to hold her body upright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "2a995bca-259d-4fef-8a25-0f7100fe52e8"
+    },
+    {
+      "start_time": 426,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues, \"I loved Katherine with all my heart. And I had never known a thrill like running up the steps of that courthouse with my arm around her. She was so excited that when I placed my hand on her chest next to that red flower she insisted on wearing, I could feel her heart pounding through the faded lace of her grandmother's wedding dress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "7bdc68fe-7610-4d1d-a18a-f3863b476bbb"
+    },
+    {
+      "start_time": 442,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel flings her arms above her head. Her mouth hangs open. She appears to be both in pain and exhausted. Her body writhes with discomfort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "da8fccc7-8a3d-4198-9d92-3723fbd47fea"
+    },
+    {
+      "start_time": 446,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's hands and arms begin trembling. She lowers her arms to her right shoulder. She gazes toward the other dancer and reaches her arms toward her with longing and falls forward onto the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "a693d524-3870-43a1-a84c-11f4e751e7a1"
+    },
+    {
+      "start_time": 449,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues, \"We were halfway up the steps when the long line of couples waiting in the sun began to turn and walk away. I do not know how to describe a look of utter devastation. The stoop of the shoulders, the tremble of the fingers, the reflection of the eyes of a heart that does not know if the next beat is worth taking. But that's what I saw in those couples. And right then and there, we knew. The weddings had been stopped. And that ours was, once again, forbidden.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "e22b39f9-70bd-4934-afb4-c1aa88e85de2"
+    },
+    {
+      "start_time": 461,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel presses her arms into the floor to drag herself across the stage toward the other dancer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "041fbd96-22bf-4dfc-b609-3d95f2025d57"
+    },
+    {
+      "start_time": 466,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel falls onto her back and gazes up at the ceiling. She reaches her arms above her head and uses her upper arms to continue pulling herself across the stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "a58fc457-16a6-4586-b4c2-7e05cf1b4432"
+    },
+    {
+      "start_time": 479,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel struggles to sit up. She falls back onto her back, then attempts to sit up again. She continues dragging herself across the stage. She moans with the effort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "c5f8672b-db8b-459a-a490-dfcf160ad96d"
+    },
+    {
+      "start_time": 486,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues, \"I don't know how long we stood there, unable to move, before Katherine managed to put her head on my shoulder. Then I remember the feel of her tears as they rolled down my breast, leaving tracks over my heart before they splattered onto those magical steps that no longer wished our feet to be there.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "7c894608-1d3b-40a0-80ef-50e9f3cc1a9b"
+    },
+    {
+      "start_time": 510,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues, \"Eventually we made it home. We got drunk on a bottle of wine while we listened to Nat King Cole. As I fell asleep in Katherine's arms with her palms stroking my face, I wasn't thinking about the politics of it, or the biology of it, or the right and wrong of it. I was too crushed for any of that to matter. That night, all I could think was, 'But I just wanted to love her.'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "c4e167c2-97e3-4f22-bb5a-eaf7226a07e1"
+    },
+    {
+      "start_time": 518,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel lies flat on her back and grabs onto the dancer's left foot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "fb32b680-516c-4419-a798-6d309076502b"
+    },
+    {
+      "start_time": 529,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"If Yesterday Could Only Be Tomorrow\" by Nat King Cole begins to play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "9fca904a-5384-43b9-8841-65416cea1a92"
+    },
+    {
+      "start_time": 530,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly extends her hand up the other dancer's ankle and drags the dancer toward her. Her face gives the impression that dragging the other dancer takes a tremendous effort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "bb6d68cf-b72c-4bb7-901e-090c7168fc01"
+    },
+    {
+      "start_time": 535,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel extends her hand to the dancer's knee and pulls herself toward the dancer's limp body. Gesel continues dragging herself up the length of the dancer's body until her head comes to rest on the other dancer's chest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "11f5b269-ef10-46ef-ae9b-75e32c5c6cc1"
+    },
+    {
+      "start_time": 542,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues, \"I fell asleep and dreamed about slaves jumping the broom to marry. But I suppose I was really dreaming about just how far this hatred could go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "a8f6dadc-57dd-4823-b987-d9c2f9b97254"
+    },
+    {
+      "start_time": 554,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel struggles to sit up. She makes grunting sounds from deep in her throat and slowly drags herself closer to the other dancer's face. She grabs onto the other dancer's right arm and attempts to lift the other dancer off the ground. She continues grunting as if the other dancer's body is extremely heavy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "489f0728-c1e6-43a5-8fb8-af5293a14ba2"
+    },
+    {
+      "start_time": 575,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Onstage, Gesel weakly cries, \"I just wanted to love her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "54c17f8d-0e07-474d-ae55-59ac6fd13778"
+    },
+    {
+      "start_time": 577,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel strokes the other dancer's palm down the side of her face and gazes up at the ceiling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "ac6548a7-7bae-4900-8517-fa04a3ef81b7"
+    },
+    {
+      "start_time": 580,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel repeats, \"I just wanted to love her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "efa9532b-937d-4677-b056-09cb7bcaed7b"
+    },
+    {
+      "start_time": 583,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel continues stroking the other dancer's palm against her cheek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "bdae82ac-461a-413a-a9dd-7e4a79a31fb0"
+    },
+    {
+      "start_time": 586,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel repeats, \"I just wanted to love her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "411a2619-ca3e-4691-b645-ad6a94003de7"
+    },
+    {
+      "start_time": 587,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice softens and the lights fade to black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        }
+      ],
+      "uuid": "1eae16eb-c656-453f-b66a-2b5c9e536d51"
+    },
+    {
+      "start_time": 588,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "25d92efb-aa32-42ea-bade-d8cfafdbc450"
+    },
+    {
+      "start_time": 607,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Program text appears. Jumping the Broom (2005). Choreography by David Rousseve. Text by David Rousseve. Music by Nat King Cole Trio, \"If Yesterday Could Only Be Tomorrow.\" Recorded voices include David Rousseve and Gesel Mason. Lighting Design by Cheles Rhynes. Performed by Gesel Mason"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Credits"
+        }
+      ],
+      "uuid": "83ed349c-32f3-4be9-93d6-11d85614b28f"
     }
   ],
   "set": "Default",

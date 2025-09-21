@@ -1840,27 +1840,6 @@
     },
     {
       "start_time": 0,
-      "end_time": 30,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The video begins in blackout."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Description"
-        }
-      ],
-      "uuid": "df25f25b-0e11-4c21-8ec2-0c6aad143347"
-    },
-    {
-      "start_time": 0,
       "end_time": 5,
       "annotation": [
         {
